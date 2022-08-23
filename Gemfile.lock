@@ -52,7 +52,7 @@ GEM
       concurrent-ruby (~> 1.0)
     ice_nine (0.11.2)
     jaro_winkler (1.5.2)
-    jmespath (1.4.0)
+    jmespath (1.6.1)
     json-jwt (1.11.0)
       activesupport (>= 4.2)
       aes_key_wrap
